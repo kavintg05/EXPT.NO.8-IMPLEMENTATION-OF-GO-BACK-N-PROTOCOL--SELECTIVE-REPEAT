@@ -47,7 +47,9 @@ printf("\n Sending frame %d \n FRAME ACKNOWLEDGED.	\n",j);
 
 printf("\n\nALL FRAME RECIEVED SUCCESSFULLY\n\n");
 }
+
 OUTPUT:
+<img width="1461" height="1098" alt="image" src="https://github.com/user-attachments/assets/bcdf0bdf-3b9a-427b-8ada-4fa14f263fde" />
 
  
 
